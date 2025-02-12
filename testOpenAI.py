@@ -1,3 +1,4 @@
 # for testing purposes if the secret will be recognized by scan, the resource is disabled to external access.
+# secret expired and no longer working.
 key = 'api-key'
-token = '9KPsqaVCtK1oFBjZF3yBtUFZCqnX3ktmYvR97WLFNwYM54rNrHz4JQQJ99BBACYeBjFXJ3w3AAABACOGWv0x'
+token = 'xxxx'
